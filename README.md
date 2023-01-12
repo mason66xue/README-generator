@@ -4,6 +4,8 @@
 ## Description
 
 In this challenge, it is heavily used in node.js and javascript. Starting with creating the javascript document with the name of index.js. After that open up the terminal to install inquirer 8.2.4 version. Inside the js, using prompt as part of the code to promt the questions inside the terminal. After answering all the questions, the terminal will automatically generate README inside your folder 
+[readme generator.webm](https://user-images.githubusercontent.com/117794323/212135325-68a90781-5bae-4268-9ab5-d5e7067b80ee.webm)
+
 
 ## Table of Contents
 
