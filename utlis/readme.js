@@ -46,7 +46,7 @@ function renderLicenseSection(data) {
 
 //function to generate README
 
-function generateMarkdown(data) {
+function generateReadme(data) {
     return`# ${data.projectTitle}
     
     ${renderLicenseBadge(data)}
@@ -101,4 +101,4 @@ function generateMarkdown(data) {
 
 
 
-module.experts=generateReadme;
+module.exports= generateReadme;

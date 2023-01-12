@@ -1,33 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer=require('inquirer');
 const fs=require('fs');
-// const generateReadme=require('./utils/readme');
-
-const generateReadme=({ Title, Description, Contributor, License, Test, Github, Linkedin })=>
-`
-
-## Description 
-${Title};
-
-## Contributor
-${Description};
-
-## Contributor
-${Contributor};
-
-## License
-${License};
-
-## Test
-${Test};
-
-## Github
-${Github};
-
-## Linkedin
-${Linkedin};
-
-`
+const generateReadme=require('./utlis/readme');
 
 // TODO: Create an array of questions for user input
 inquirer
