@@ -88,7 +88,7 @@ inquirer
     console.log(answers)
     const readmeContent = generateReadme(answers);
 //write Files in README.md format
-    fs.writeFile('README.md', readmeContent, (err) =>
+    fs.writeFile('readme.md', readmeContent, (err) =>
       err ? console.log(err) : console.log('Successfully created README!')
     );
   });

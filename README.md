@@ -1,9 +1,9 @@
-# sdfsd
+# readme generator
     
-    ![License: Apache](https://img.shields.io/badge/License-undefined-blue.svg)
+    ![License: Open](https://img.shields.io/badge/License-undefined-blue.svg)
     ## Description
     
-    sdfsd
+    use this readme generator to automatically generate readme
     
     ## Table of Contents
     - [Installation](#installation)
@@ -13,34 +13,34 @@
     
     ## Installation
     
-    sfdfs
+    NA
     
     ## Usage
     
-    sdfsdf
+    NA
     
     
     ## Credits
     
-    sfdfs
+    NA
     
     ## License
-    This application is covered by the Apache license.<br>
+    This application is covered by the Open license.<br>
     (https://opensource.org/licenses/Apache-2.0)
     
     ## Features
     
-    sfdfs
+    by tying in node index in the terminal, you can answer questions from prompt and after that it will automatically generate readme 
     
     ## How to Contribute
     
-    sdfsdf
+    Ruochen Liu
     
     ## Tests
     
-    sdfsd
+    NA
     
     ## Questions
     
-    Github: [sdfsd](https://github.com/sdfsd)<br>
-    Email: [sdfsd](mailto:sdfsd)
+    Github: [mason66xue](https://github.com/mason66xue)<br>
+    Email: [ruochenliu155@gmail.com](mailto:ruochenliu155@gmail.com)
