@@ -3,7 +3,7 @@
     ![License: Open](https://img.shields.io/badge/License-undefined-blue.svg)
     ## Description
     
-    use this readme generator to automatically generate readme
+    use backend technology to generate readme, type in node index from the terminal and then ask questions from prompts 
     
     ## Table of Contents
     - [Installation](#installation)
@@ -13,16 +13,16 @@
     
     ## Installation
     
-    NA
+    N/A
     
     ## Usage
     
-    NA
+    N/A
     
     
     ## Credits
     
-    NA
+    N/A
     
     ## License
     This application is covered by the Open license.<br>
@@ -30,7 +30,7 @@
     
     ## Features
     
-    by tying in node index in the terminal, you can answer questions from prompt and after that it will automatically generate readme 
+    implement node.js as the backend technology
     
     ## How to Contribute
     
@@ -38,7 +38,7 @@
     
     ## Tests
     
-    NA
+    N/A
     
     ## Questions
     
